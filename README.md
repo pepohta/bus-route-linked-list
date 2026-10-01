@@ -1,4 +1,4 @@
-# PedroHTA2trabalho
+# PedroHTA2trabalho - Lista Simplesmente Encadeada
 # Exercício – Lista Simplesmente Encadeada
 
 ## Descrição
